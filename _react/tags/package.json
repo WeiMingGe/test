@@ -21,7 +21,7 @@
     "hjs-webpack": "^2.11.0",
     "jquery": "^2.1.4",
     "json-loader": "^0.5.2",
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.15",
     "postcss-loader": "^0.5.1",
     "react": "^0.13.3",
     "react-hot-loader": "^1.2.8",
